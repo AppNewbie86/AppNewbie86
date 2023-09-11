@@ -7,7 +7,7 @@
 </p>  
 
 - 🔭 I’m currently working on
-  [E Commerce Fashion App](https://github.com/AppNewbie86/E-Commerce)
+  [E Commerce IOS Fashion App]
   
 - 🌱 I’m currently learning
   **Lottie Frameworks, CocoaPods, NodeJs, Create API**
