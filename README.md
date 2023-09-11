@@ -15,8 +15,6 @@
   **Swift UI, Firebase**  
 - 📫 How to reach me
   **mzmann252@gmail.com**  
-- 📄 Know about my experiences
-  [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/) 
 
 <h3 align="left">Connect with me:</h3> 
 
