@@ -1,5 +1,4 @@
 
-[![MasterHead](https://cdn.pixabay.com/photo/2015/07/16/12/29/mockup-847643_1280.jpg)]
 <h1 align="center">Hi 👋, I'm Marcel</h1> 
 <h3 align="center">A passionate IOS App Developer from Germany in Swift UI</h3>
 
