@@ -10,7 +10,7 @@
   [E Commerce IOS Fashion App]
   
 - 🌱 I’m currently learning
-  **Lottie Frameworks, CocoaPods, NodeJs, Create API**
+  **Lottie Framework , Backend**
   
 - 👨‍💻 All of my projects are available at
   [https://github.com/AppNewbie86?tab=repositories](https://github.com/AppNewbie86?tab=repositories)  
