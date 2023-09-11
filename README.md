@@ -6,16 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breadcrumb&label=Profile%20views&color=0e75b6&style=flat" alt="breadcrumb" />
 </p>  
 
-- 🔭 I’m currently working on
-  [E Commerce IOS Fashion App]
+- 🔭 I’m currently working on **IOS FASHION APP**
   
-- 🌱 I’m currently learning
-  **Lottie Framework , Backend**
+- 🌱 I’m currently learning **Lottie Framework , Backend**
   
-- 👨‍💻 All of my projects are available at
-  [https://github.com/AppNewbie86?tab=repositories](https://github.com/AppNewbie86?tab=repositories)  
-- 📝 I regularly write articles on
-  [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/)  
+- 📝 I regularly write articles on **LinkedIn**
 - 💬 Ask me about
   **Swift UI, Firebase**  
 - 📫 How to reach me
