@@ -5,13 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breadcrumb&label=Profile%20views&color=0e75b6&style=flat" alt="breadcrumb" />
 </p>  
-- 🔭 I’m currently working on [E Commerce Fashion App](https://github.com/AppNewbie86/E-Commerce)
-- 🌱 I’m currently learning **Lottie Frameworks, CocoaPods, NodeJs, Create API**  
-- 👨‍💻 All of my projects are available at [https://github.com/AppNewbie86?tab=repositories](https://github.com/AppNewbie86?tab=repositories)  
-- 📝 I regularly write articles on [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/)  
-- 💬 Ask me about **Swift UI, Firebase**  
-- 📫 How to reach me **mzmann252@gmail.com**  
-- 📄 Know about my experiences [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/) 
+
+- 🔭 I’m currently working on
+  [E Commerce Fashion App](https://github.com/AppNewbie86/E-Commerce)
+  
+- 🌱 I’m currently learning
+  **Lottie Frameworks, CocoaPods, NodeJs, Create API**
+  
+- 👨‍💻 All of my projects are available at
+  [https://github.com/AppNewbie86?tab=repositories](https://github.com/AppNewbie86?tab=repositories)  
+- 📝 I regularly write articles on
+  [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/)  
+- 💬 Ask me about
+  **Swift UI, Firebase**  
+- 📫 How to reach me
+  **mzmann252@gmail.com**  
+- 📄 Know about my experiences
+  [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/) 
 
 <h3 align="left">Connect with me:</h3> 
 
