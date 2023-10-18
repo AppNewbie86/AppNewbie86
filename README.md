@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=appnewbie86" alt="appnewbie86" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS, JS, PHP Course**
+- 🌱 I’m currently learning **HTML5, CSS, JS, Python, CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AppNewbie86?tab=repositories](https://github.com/AppNewbie86?tab=repositories)
 
 - 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/marcel-zimmermann-bb8802211/](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/)
 
-- 💬 Ask me about **HTML5, CSS, and Swift UI**
+- 💬 Ask me about **HTML5, CSS, and Swift UI, CyberSecurity, Python**
 
 - 📫 How to reach me **mzmann252@gmail.com**
 
